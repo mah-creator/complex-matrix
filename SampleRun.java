@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Problem{
+class SampleRun{
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
